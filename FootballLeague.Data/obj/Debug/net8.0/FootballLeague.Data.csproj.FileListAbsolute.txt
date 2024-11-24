@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\bin\Debug\net8.0\FootballLeague.Data.deps.json
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\bin\Debug\net8.0\FootballLeague.Data.runtimeconfig.json
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\bin\Debug\net8.0\FootballLeague.Data.dll
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\bin\Debug\net8.0\FootballLeague.Data.pdb
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.dll
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\refint\FootballLeague.Data.dll
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.pdb
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\ref\FootballLeague.Data.dll
+C:\Users\User\source\repos\FootballLeague\FootballLeague.Data\obj\Debug\net8.0\FootballLeague.Data.sourcelink.json

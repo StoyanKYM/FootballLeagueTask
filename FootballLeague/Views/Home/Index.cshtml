@@ -1,0 +1,40 @@
+﻿@model List<FootballLeague.Data.Entities.Team>
+
+@{
+    ViewData["Title"] = "Ranking Page";
+}
+
+<h1 style="text-align: center">Team Rankings</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Team Name</th>
+            <th>Points</th>
+            <th>Matches Played</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            int rank = 1;
+            foreach (var team in Model)
+            {
+                <tr>
+                    <td>@rank</td>
+                    <td>@team.Name</td>
+                    <td>@team.Points</td>
+                    <td>@team.MatchesPlayed</td>
+                </tr>
+                rank++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3">No teams available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
